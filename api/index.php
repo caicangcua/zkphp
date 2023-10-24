@@ -1,6 +1,6 @@
 <?php
 echo "I'm Proxy";
     echo "<pre>";
-print_r(get_loaded_extensions());
+//print_r(get_loaded_extensions());
 echo "<pre/>";
 ?>
